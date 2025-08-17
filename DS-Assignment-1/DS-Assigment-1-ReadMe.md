@@ -16,7 +16,8 @@ Testing:
 
 Output:
 
-![CalculatorServer.java](Img\Screenshot 2025-08-16 124225.png)
+![CalculatorServer.java]([Img\Screenshot 2025-08-16 124225.png](https://github.com/a-rupesh/DS-Assignment-1/blob/main/DS-Assignment-1/Img/Screenshot%202025-08-16%20124225.png?raw=true))
 ![CalculatorClient.java](Img\Screenshot 2025-08-16 124414.png)
 ![CalculatorMultiClient.java](Img\Screenshot 2025-08-16 124527.png)
+
 ![CalculatorTest.java](Img\Screenshot 2025-08-16 124609.png)
